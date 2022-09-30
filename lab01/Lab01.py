@@ -4,3 +4,4 @@
 # Editado: 2022.09.07
 
 print ("Hola, mundo!")
+print ("Hello, world!")
